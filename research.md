@@ -11,4 +11,6 @@ permalink: /research/
   <a href="{{ site.baseurl }}/tutoring/">Tutoring</a>
 </nav>
 
+---
+
 Research topics, projects, publications.
