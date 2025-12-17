@@ -11,4 +11,6 @@ permalink: /tutoring/
   <a href="{{ site.baseurl }}/tutoring/">Tutoring</a>
 </nav>
 
+---
+
 Tutoring information.
