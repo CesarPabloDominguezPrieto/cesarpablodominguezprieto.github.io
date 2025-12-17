@@ -1,5 +1,4 @@
 ---
----
 
 # PhD Student
 _Physics of complex systems applied to the origins of life_
