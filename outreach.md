@@ -16,7 +16,8 @@ I am strongly interested in communicating science. My outreach activities so far
   
 - **Poster Presentation**  
   *Strong parameter hierarchy in astrochemistry*  
-  XXV Congreso de Física Estadística (FISES’25), Santiago de Compostela (2025).  
+  XXV Congreso de Física Estadística (FISES’25), Santiago de Compostela (2025).
+  Presented a poster on the results of my JAE Intro research internship at the Centro de Astrobiología (CAB), CSIC-INTA. 
 
 ### Broader Interests
 
