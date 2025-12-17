@@ -1,3 +1,8 @@
+---
+layout: page
+title: Home
+---
+
 # PhD Student
 _Physics of complex systems applied to the origins of life_
 ## Education
