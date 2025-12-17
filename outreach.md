@@ -4,6 +4,12 @@ title: Outreach
 permalink: /outreach/
 ---
 
+<nav>
+  <a href="{{ site.baseurl }}/outreach/">Outreach</a> ·
+  <a href="{{ site.baseurl }}/research/">Research</a> ·
+  <a href="{{ site.baseurl }}/tutoring/">Tutoring</a>
+</nav>
+
 ## Science Outreach and Engagement
 
 I am strongly interested in communicating science. My outreach activities so far have focused on education, mentoring, and participation in scientific and cultural exchange programs.
