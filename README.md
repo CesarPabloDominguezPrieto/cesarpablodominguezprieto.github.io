@@ -11,6 +11,7 @@ I am a physicist pursuing a PhD at the Centro de Astrobiología (CAB), CSIC-INTA
 
 I study the complete chemical reaction network of the interstellar medium through the lens of complexity science, aiming to characterize its structural and dynamical properties from a novel perspective. This unconventional interplay between astrochemistry, network science, and the physics of complex systems seeks to distinguish predictive success from parameter accuracy in astrochemical modeling. 
 
+![Complete network of chemical reactions present in the interstellar medium. Each point represents a molecule, and the colors correspond to functional modules obtained using community-detection algorithms.]({{ site.baseurl }}/assets/img/red.jpg)
 
 ## My Network
  
