@@ -29,11 +29,11 @@ permalink: /academic-background/
 
   Awarded a JAE Intro research fellowship from the Spanish National Research Council (CSIC).  
   **Project:** *Theoretical and computational modeling of complex systems in the context of the origin and evolution of life.*  
-  Research carried out under the supervision of **Dr. Jacobo Aguirre**.
+  Research carried out under the supervision of Dr. Jacobo Aguirre.
 
 ---
 
-- **Undergraduate Research Assistant — Departmental Collaboration Fellowship**  
+- **Undergraduate Research Assistant — MEFP Departmental Collaboration Fellowship**  
   University of Santiago de Compostela  
   *November 2023 – June 2024*  
 
@@ -55,5 +55,5 @@ permalink: /academic-background/
   University of Santiago de Compostela  
   *June 2022 – July 2022*  
 
-  Completed curricular research training for the Bachelor’s Degree in Physics within the **Biophysics and Interfaces Research Group**.
+  Completed curricular research training for the Bachelor’s Degree in Physics within the Biophysics and Interfaces Research Group.
 
