@@ -14,7 +14,7 @@ I study the complete chemical reaction network of the interstellar medium throug
 <figure>
   <img src="{{ site.baseurl }}/assets/img/red.jpg"
        alt="Complete network of chemical reactions present in the interstellar medium.">
-  <figcaption>
+  <figcaption style="font-style: italic;">
     Complete network of chemical reactions present in the interstellar medium.
     Each point represents a molecule, and the colors correspond to functional
     modules obtained using community-detection algorithms.
