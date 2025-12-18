@@ -11,9 +11,7 @@ I am a physicist currently doing a PhD at the Centro de Astrobiología (CAB), CS
 
 ## My Network
 
-![]({{ site.baseurl }}/assets/img/My_Network_new.jpg)
 
-![]({{ site.baseurl }}/assets/img/My_Network_2.jpg)
 
 
 ## Education
