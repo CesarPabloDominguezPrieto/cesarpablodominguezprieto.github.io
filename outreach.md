@@ -14,16 +14,22 @@ permalink: /outreach/
 
 ---
 
-## Science Outreach and Engagement
 
-I am strongly interested in communicating science. My outreach activities so far have focused on education, mentoring, and participation in scientific and cultural exchange programs.
+## Academic Outreach
 
-### Academic and Educational Outreach
+- **Member of the Organizing Committee**  
+  IV Congreso de Física Estadística Joven (FISES Joven 2026),  
+  Online, March 10–12, 2026
 
 - **Poster Presentation**  
-  XXV Congreso de Física Estadística (FISES’25), Santiago de Compostela (2025)  
+  XXV Congreso de Física Estadística (FISES’25),  
+  Santiago de Compostela, June 18–20, 2025  
   *Strong parameter hierarchy in astrochemistry*  
   Presented a poster on the results of my JAE Intro research internship at the Centro de Astrobiología (CAB), CSIC-INTA.
+
+  
+  ## Educational Outreach
+
   
 ### Broader Interests
 
