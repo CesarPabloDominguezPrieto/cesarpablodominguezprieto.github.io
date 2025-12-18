@@ -30,7 +30,10 @@ permalink: /outreach/
   
   ## Educational Outreach
 
-  
-### Broader Interests
+  - **Invited Talk / Podcast Recording**  
+  *Mes da Ciencia en Galego*  
+  Escuela Oficial de Idiomas de Lugo, Spain  
+  **Title:** *Os pasos críticos para a orixe da vida: un camiño complexo*  
+  *(The Critical Steps Toward the Origin of Life: A Complex Path)*
 
-Beyond formal outreach activities, I have a strong interest in interdisciplinary dialogue between physics, biology, and philosophy, particularly regarding questions related to the **emergence of complexity** and **the origins of life**. I am motivated to expand my outreach efforts in the future through public talks, workshops, and educational initiatives aimed at non-specialist audiences.
+  
