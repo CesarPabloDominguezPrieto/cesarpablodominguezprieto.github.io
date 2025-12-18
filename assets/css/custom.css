@@ -1,3 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide "View my GitHub profile" */
 .view {
-  display: none;
+  display: none !important;
 }
