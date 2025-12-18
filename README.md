@@ -7,10 +7,13 @@ Welcome to my personal webpage! Here you can find more information about my back
 
 ## About me
 
-I am a physicist currently doing a PhD at the Centro de Astrobiología (CAB), CSIC-INTA in Madrid. My research focuses on the complete chemical reaction network of the interstellar medium, analyzed through the lens of complexity science to characterize its structural and dynamical properties from a novel perspective. This unconventional interplay between astrochemistry, network science, and the physics of complex systems highlights the need to distinguish predictive success from parameter accuracy in astrochemical modeling. It also sheds light on the emergence of chemical complexity in the interstellar medium and carries significant implications for prebiotic chemistry.
+I am a physicist pursuing a PhD at the Centro de Astrobiología (CAB), CSIC-INTA in Madrid. My research explores the emergence of chemical complexity in the interstellar medium and its implications for prebiotic chemistry and the origins of life. 
+
+I study the complete chemical reaction network of the interstellar medium through the lens of complexity science, aiming to characterize its structural and dynamical properties from a novel perspective. This unconventional interplay between astrochemistry, network science, and the physics of complex systems seeks to distinguish predictive success from parameter accuracy in astrochemical modeling. 
+
 
 ## My Network
-
+ 
 
 
 
