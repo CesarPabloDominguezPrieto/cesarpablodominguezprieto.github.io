@@ -24,6 +24,6 @@ I study the complete chemical reaction network of the interstellar medium throug
  
 ## Outside Academia
 
-I am passionate about climbing, which allows me to connect with nature (or with plastic holds in climbing gyms when the weather is bad). 
+I am passionate about climbing, which allows me to connect with nature (or with plastic rocks in climbing gyms when the weather is bad). 
 
 I also enjoy learning new languages and reading. I am comfortable working in English, French, and Italian, and I am a native speaker of Spanish and Galician. Recently, I have started learning German.
