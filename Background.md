@@ -1,25 +1,27 @@
 ---
 layout: default
-title: CV
-permalink: /CV/
+title: Education and Research Experience
+permalink: /academic-background/
 ---
 
 <nav>
   <a href="{{ site.baseurl }}/">Home</a> ·
   <a href="{{ site.baseurl }}/outreach/">Outreach</a> ·
   <a href="{{ site.baseurl }}/tutoring/">Tutoring</a> ·
-  <a href="{{ site.baseurl }}/CV/">CV</a> ·
+  <a href="{{ site.baseurl }}/academic-background/">Education and Research Experience</a> ·
   <a href="{{ site.baseurl }}/contact/">Contact</a>
 </nav>
 
 ---
+
+
 
 ## Education
 - Doctoral Program in Condensed Matter Physics, Nanoscience, and Biophysics| Autonomous University of Madrid (_October 2025 – Present_)								       		
 - Master's Degree in Condensed Matter Physics and Biological Systems — Biophysics Track 	| Autonomous University of Madrid (_September 2024 – September 2025_)	 			        
 - Bachelor of Physics | University of Santiago de Compostela (_September 2019 – July 2024_)
 
-## Work Experience
+## Research Experience
 
 - **Research Intern — JAE Intro Fellowship (CSIC)**  
   Centro de Astrobiología (CAB), CSIC-INTA  
