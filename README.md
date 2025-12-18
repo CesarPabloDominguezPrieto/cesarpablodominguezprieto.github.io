@@ -5,7 +5,7 @@ _PhD student at the Centro de Astrobiología (CAB), CSIC-INTA_
 
 Welcome to my personal webpage! Here you can find more information about my background, research interests and science outreach activities. If you are interested in collaboration, feel free to get in touch.
 
-## About me
+## About Me
 
 I am a physicist pursuing a PhD at the Centro de Astrobiología (CAB), CSIC-INTA in Madrid. My research explores the emergence of chemical complexity in the interstellar medium and its implications for prebiotic chemistry and the origins of life. 
 
