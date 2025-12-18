@@ -14,7 +14,7 @@ permalink: /contact/
 
 ---
 
-
+## Contact
 
 If you are interested in collaboration or have any questions, feel free to get in touch.
 
