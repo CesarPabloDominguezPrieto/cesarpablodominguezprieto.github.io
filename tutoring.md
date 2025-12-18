@@ -15,7 +15,7 @@ permalink: /tutoring/
 ---
 # Tutoring
 
-One of the things I love most about science is teaching and tutoring students. Adapting to each students needs and pace is a challenge I enjoy. Teaching has also made me learn and have a complete view of subjects. Teaching has pushed me to constantly revisit fundamentals, deepen my understanding, and develop a more complete and connected view of the subjects I work with.
+One of the things I love most about science is teaching and tutoring students. Adapting to each students needs and pace is a challenge I enjoy. Teaching has pushed me to constantly revisit fundamentals, deepen my understanding, and develop a more complete and connected view of the subjects I work with.
 
 ## Tutoring Experience
 
