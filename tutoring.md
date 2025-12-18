@@ -19,14 +19,10 @@ One of the things I love most about science is teaching and tutoring students. A
 
 ## Tutoring Experience
 
-**Student Tutor**  
-*September 2021 – June 2022*  
-Santiago de Compostela, Spain  
+**Private Tutor**  
+*September 2025 – Present*  
 
-Participated in a university program designed to assist and guide first-year students throughout their initial academic journey.
-
-- **Student orientation and information:** Provided guidance on university services, academic programs, and the general functioning of the University of Santiago de Compostela (USC).
-- **Mentorship and support:** Offered personalized mentoring to address individual concerns and academic challenges, facilitating a smooth adaptation to the university environment.
+I provide individualized tutoring in final-year high school mathematics. I am independently preparing a student for spanish university access examinations (PAU), with a strong emphasis on conceptual understanding and problem-solving strategies.
 
 ---
 
@@ -38,8 +34,13 @@ Participated in a cultural exchange program, teaching Spanish to local students 
 
 ---
 
-**Private Tutor**  
-*September 2025 – Present*  
 
-I provide individualized tutoring in final-year high school mathematics. I am independently preparing a student for spanish university access examinations (PAU), with a strong emphasis on conceptual understanding and problem-solving strategies.
 
+**Student Tutor**  
+*September 2021 – June 2022*  
+Santiago de Compostela, Spain  
+
+Participated in a university program designed to assist and guide first-year students throughout their initial academic journey.
+
+- **Student orientation and information:** Provided guidance on university services, academic programs, and the general functioning of the University of Santiago de Compostela (USC).
+- **Mentorship and support:** Offered personalized mentoring to address individual concerns and academic challenges, facilitating a smooth adaptation to the university environment.
