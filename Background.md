@@ -28,7 +28,7 @@ permalink: /academic-background/
   *December 2024 – June 2025*  
 
   Awarded a JAE Intro research fellowship from the Spanish National Research Council (CSIC).  
-  **Training project:** *Theoretical and computational modeling of complex systems in the context of the origin and evolution of life.*  
+  **Project:** *Theoretical and computational modeling of complex systems in the context of the origin and evolution of life.*  
   Research carried out under the supervision of **Dr. Jacobo Aguirre**.
 
 ---
