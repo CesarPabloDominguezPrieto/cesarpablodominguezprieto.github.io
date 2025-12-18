@@ -21,7 +21,6 @@ I study the complete chemical reaction network of the interstellar medium throug
   </figcaption>
 </figure>
 
-## My Network
  
 ## Outside of Academia
 
