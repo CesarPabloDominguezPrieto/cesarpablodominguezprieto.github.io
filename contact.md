@@ -11,6 +11,7 @@ permalink: /contact/
   <a href="{{ site.baseurl }}/academic-background/">Education and Research Experience</a> ·
   <a href="{{ site.baseurl }}/contact/">Contact</a>
 </nav>
+
 ---
 
 ## Contact
