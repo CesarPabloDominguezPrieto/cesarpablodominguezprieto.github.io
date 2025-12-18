@@ -22,7 +22,7 @@ I study the complete chemical reaction network of the interstellar medium throug
 </figure>
 
  
-## Outside of Academia
+## Outside Academia
 
 I am passionate about climbing, which allows me to connect with nature (or with plastic holds in climbing gyms when the weather is bad). 
 
