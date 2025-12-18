@@ -29,7 +29,8 @@ permalink: /outreach/
 
 ![ ]({{ site.baseurl }}/assets/img/Foto_Poster.jpeg)
 
-  ## Educational Outreach
+
+## Educational Outreach
 
   - **Invited Talk / Podcast Recording**  
   *Mes da Ciencia en Galego*  
