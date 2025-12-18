@@ -27,7 +27,8 @@ permalink: /outreach/
   *Strong parameter hierarchy in astrochemistry*  
   Presented a poster on the results of my JAE Intro research internship at the Centro de Astrobiología (CAB), CSIC-INTA.
 
-  
+![ ]({{ site.baseurl }}/assets/img/Foto_Poster.jpeg)
+
   ## Educational Outreach
 
   - **Invited Talk / Podcast Recording**  
@@ -36,4 +37,10 @@ permalink: /outreach/
   **Title:** *Os pasos críticos para a orixe da vida: un camiño complexo*  
   *(The Critical Steps Toward the Origin of Life: A Complex Path)*
 
-  
+
+![ ]({{ site.baseurl }}/assets/img/CartelEOI.jpeg)
+
+![ ]({{ site.baseurl }}/assets/img/FotoEOI.jpeg)
+
+![ ]({{ site.baseurl }}/assets/img/Progreso_EOI.jpeg)
+
