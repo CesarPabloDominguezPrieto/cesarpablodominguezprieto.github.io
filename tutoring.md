@@ -13,6 +13,8 @@ permalink: /tutoring/
 </nav>
 
 ---
+
+<!--
 # Tutoring
 
 One of the things I love most about science is teaching and tutoring students. Adapting to each students needs and pace is a challenge I enjoy. Teaching has pushed me to constantly revisit fundamentals, deepen my understanding, and develop a more complete and connected view of the subjects I work with.
@@ -44,3 +46,5 @@ Participated in a university program designed to assist and guide first-year stu
 
 - **Student orientation and information:** Provided guidance on university services, academic programs, and the general functioning of the University of Santiago de Compostela (USC).
 - **Mentorship and support:** Offered personalized mentoring to address individual concerns and academic challenges, facilitating a smooth adaptation to the university environment.
+
+-->
