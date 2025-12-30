@@ -34,6 +34,8 @@ I’m passionate about climbing and being in nature. I’ve only climbed indoors
 
 I also enjoy learning new languages and reading. I am comfortable speaking in English, French, and Italian, and I am a native speaker of Spanish and Galician. Recently, I have started learning German.
 
--->
+
 
 ![]({{ site.baseurl }}/assets/img/climbing.jpeg)
+
+-->
