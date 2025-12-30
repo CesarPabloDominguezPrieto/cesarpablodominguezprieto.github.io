@@ -14,7 +14,7 @@ permalink: /academic-background/
 
 ---
 
-
+<!-- 
 
 ## Education
 - Doctoral Program in Condensed Matter Physics, Nanoscience, and Biophysics| Autonomous University of Madrid (_October 2025 – Present_)								       		
@@ -56,4 +56,6 @@ permalink: /academic-background/
   *June 2022 – July 2022*  
 
   Completed curricular research training for the Bachelor’s Degree in Physics within the Biophysics and Interfaces Research Group.
+
+  -->
 
