@@ -14,6 +14,7 @@ permalink: /outreach/
 
 ---
 
+<!--
 
 ## Academic Outreach
 
@@ -45,3 +46,4 @@ permalink: /outreach/
 
 ![ ]({{ site.baseurl }}/assets/img/Progreso_EOI.jpeg)
 
+ -->
