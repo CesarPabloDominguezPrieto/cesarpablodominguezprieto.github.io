@@ -14,9 +14,14 @@ permalink: /contact/
 
 ---
 
+<!-- 
+
+
 ## Contact
 
 If you are interested in collaboration or have any questions, feel free to get in touch.
 
 - 📧 **Email:** [paulo.dominguez@estudiante.uam.es](mailto:paulo.dominguez@estudiante.uam.es)
 - 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/paulo-dom%C3%ADnguez-l%C3%B3pez-26b883255/)
+
+ -->
