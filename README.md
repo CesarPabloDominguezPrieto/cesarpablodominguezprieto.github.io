@@ -1,15 +1,16 @@
 ---
 
-# Physics of Complex Systems Applied to the Origins of Life
-_PhD student at the Centro de Astrobiología (CAB), CSIC-INTA_
+# Comparative Literature & Public Humanities at USC
+_Professor of Comparative Literature_
 
-Welcome to my personal webpage! Here you can find more information about my background, research interests and science outreach activities. If you are interested in collaboration, feel free to get in touch.
+Welcome to my personal webpage!
+
+<!-- 
 
 ## About Me
 
-I am a physicist pursuing a PhD at the Centro de Astrobiología (CAB), CSIC-INTA in Madrid. My research explores the emergence of chemical complexity in the interstellar medium and its implications for prebiotic chemistry and the origins of life. 
 
-I study the complete chemical reaction network of the interstellar medium through the lens of complexity science, aiming to characterize its structural and dynamical properties from a novel perspective. This unconventional interplay between astrochemistry, network science, and the physics of complex systems seeks to distinguish predictive success from parameter accuracy in astrochemical modeling. 
+
 
 <figure>
   <img src="{{ site.baseurl }}/assets/img/red.jpg"
@@ -32,5 +33,7 @@ I study the complete chemical reaction network of the interstellar medium throug
 I’m passionate about climbing and being in nature. I’ve only climbed indoors so far, but I’m excited to head outdoors after the winter. Stay tuned for updates!
 
 I also enjoy learning new languages and reading. I am comfortable speaking in English, French, and Italian, and I am a native speaker of Spanish and Galician. Recently, I have started learning German.
+
+-->
 
 ![]({{ site.baseurl }}/assets/img/climbing.jpeg)
