@@ -16,6 +16,10 @@ permalink: /tutoring/
 # Supervisão · Supervision
 
 ## Supervisão de teses de doutorado · Supervision of doctoral theses
+
+
+
+**Wang Chenchen**: *Diáspora china y escritores migrantes en Perú y España (1985-2023): una lectura desde la literatura mundial*
 <!--
 # Tutoring
 
