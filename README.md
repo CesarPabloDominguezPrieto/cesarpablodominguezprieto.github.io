@@ -29,6 +29,14 @@ My teaching work covers subjects such as literary theory, world literature, ecoc
 
 My current interests include world philology, applied literary gerontology, the poetics of sustainability, and emerging forms of narrative thinking in the 21st century. My work combines a multilingual and transcultural approach with a public vocation for the humanities, understood as a space for cultural, ethical, and political mediation in an interdependent world.
 
+<figure>
+  <img src="{{ site.baseurl }}/assets/img/LivroMapasMundo.jpg"
+       alt="Complete network of chemical reactions present in the interstellar medium.">
+  <figcaption style="font-style: italic;">
+    Meu último livro · My last book
+  </figcaption>
+</figure>
+
 <!-- 
 
 
@@ -36,15 +44,7 @@ My current interests include world philology, applied literary gerontology, the 
 
 
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/red.jpg"
-       alt="Complete network of chemical reactions present in the interstellar medium.">
-  <figcaption style="font-style: italic;">
-    Complete network of chemical reactions present in the interstellar medium.
-    Each point represents a molecule, and the colors correspond to functional
-    modules obtained using community-detection algorithms.
-  </figcaption>
-</figure>
+
 
 ## My Network
 
