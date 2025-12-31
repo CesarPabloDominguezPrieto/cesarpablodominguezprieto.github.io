@@ -29,12 +29,13 @@ My teaching work covers subjects such as literary theory, world literature, ecoc
 
 My current interests include world philology, applied literary gerontology, the poetics of sustainability, and emerging forms of narrative thinking in the 21st century. My work combines a multilingual and transcultural approach with a public vocation for the humanities, understood as a space for cultural, ethical, and political mediation in an interdependent world.
 
+### Meu último livro · My last book
+
+[Meu último livro · My last book](https://www.edicoesmakunaima.com.br/2025/12/01/mapas-da-literatura-mundo-etica-circulacao-e-futuros-planetarios/)
+
 <figure>
   <img src="{{ site.baseurl }}/assets/img/LivroMapasMundo.jpg"
        alt="">
-  <figcaption style="font-style: italic;">
-  [Meu último livro · My last book](https://www.edicoesmakunaima.com.br/2025/12/01/mapas-da-literatura-mundo-etica-circulacao-e-futuros-planetarios/)
-  </figcaption>
 </figure>
 
 <!-- 
