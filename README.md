@@ -17,7 +17,6 @@ Minha atividade docente abrange disciplinas sobre teoria da literatura, literatu
 
 Entre os meus interesses atuais destacam-se a filologia mundial, a gerontologia literária aplicada, a poética da sustentabilidade e as formas emergentes de pensamento narrativo no século XXI. O meu trabalho combina uma abordagem multilingue e transcultural com uma vocação pública das humanidades, entendidas como espaço de mediação cultural, ética e política num mundo interdependente.
 
----
 
 I am a professor of comparative literature at the University of Santiago de Compostela, where I coordinate the Master's Degree in Literature and Culture Studies. With more than twenty years of teaching and research experience, my work lies at the intersection of comparative literature, literary theory, cultural translation, and transatlantic studies. I have developed a solid international career in the field of comparative and global humanities, with research and teaching stays at universities in Europe, America, and Asia.
 
