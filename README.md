@@ -33,7 +33,7 @@ My current interests include world philology, applied literary gerontology, the 
   <img src="{{ site.baseurl }}/assets/img/LivroMapasMundo.jpg"
        alt="">
   <figcaption style="font-style: italic;">
-    Meu último livro · My last book
+  [Meu último livro · My last book](https://www.edicoesmakunaima.com.br/2025/12/01/mapas-da-literatura-mundo-etica-circulacao-e-futuros-planetarios/)
   </figcaption>
 </figure>
 
