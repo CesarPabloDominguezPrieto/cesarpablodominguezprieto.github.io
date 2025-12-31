@@ -31,7 +31,7 @@ My current interests include world philology, applied literary gerontology, the 
 
 <figure>
   <img src="{{ site.baseurl }}/assets/img/LivroMapasMundo.jpg"
-       alt="Complete network of chemical reactions present in the interstellar medium.">
+       alt="">
   <figcaption style="font-style: italic;">
     Meu último livro · My last book
   </figcaption>
