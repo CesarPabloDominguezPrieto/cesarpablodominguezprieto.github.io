@@ -48,10 +48,12 @@ The aim of this dissertation is to analyze H.P. Lovecraft’s psychological prob
 investigate the role of narrative in representing and depicting mental illness. 
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/img/TesisNelsonWembe.jpg"
+  <img src="{{ site.baseurl }}/assets/img/TesisBukeSaglam.jpg"
        alt=""
        style="width: 75%;">
 </figure>
+
+---
 
 <!--
 # Tutoring
