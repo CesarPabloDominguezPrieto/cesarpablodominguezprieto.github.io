@@ -44,8 +44,7 @@ This dissertation examines how the dynamics of Longing for the Other, Longing to
 
 **Büke Saǧlam**: *Longing and Belonging in Black African Diasporic Narratives Written in French and Spanish* **2023**
 
-The aim of this dissertation is to analyze H.P. Lovecraft’s psychological problems and traumas to understand the true meaning behind his narratives that he wrote between the years 1905 and 1935. Lovecraft’s narratives, stemming directly from the author’s life, fears, anxieties, and traumas, are more than fiction and can be considered as a means to reach the hidden corners of his complex mind. Therefore, I argue that deciphering these writings as anxiety narratives will be giving a new insight about the author as well as mental illness in general. To do so, Lovecraft’s life and his literary philosophy, cosmicism, are explored, with a specific attention to the concepts of (existential) anxiety, fear, and phobia, which were predominant themes/affects in both Lovecraft’s life and his narratives. The interdisciplinary field of medical/health humanities—more specifically, narrative medicine—is used while analyzing the representation of anxiety in author’s writings. Depression, dissociation, paranoia, OCD are also analyzed for a complete portrayal and understanding of Lovecraft’s anxiety disorders. This dissertation also approaches COVID-19 from a Lovecraftian perspective to discuss its psychological effects on the individuals, and finally examines the possibility to address the author’s narratives from a posthumanist perspective. Therefore, this dissertation adopts an interdisciplinary approach and uses various theories, ideas, and philosophies such as existentialism, phenomenology, schizoanalysis, as well as critical medical humanities, narrative medicine and posthumanism to accurately analyze Lovecraft’s writings. In doing so, it aims to 
-investigate the role of narrative in representing and depicting mental illness. 
+The aim of this dissertation is to analyze H.P. Lovecraft’s psychological problems and traumas to understand the true meaning behind his narratives that he wrote between the years 1905 and 1935. Lovecraft’s narratives, stemming directly from the author’s life, fears, anxieties, and traumas, are more than fiction and can be considered as a means to reach the hidden corners of his complex mind. Therefore, I argue that deciphering these writings as anxiety narratives will be giving a new insight about the author as well as mental illness in general. To do so, Lovecraft’s life and his literary philosophy, cosmicism, are explored, with a specific attention to the concepts of (existential) anxiety, fear, and phobia, which were predominant themes/affects in both Lovecraft’s life and his narratives. The interdisciplinary field of medical/health humanities—more specifically, narrative medicine—is used while analyzing the representation of anxiety in author’s writings. Depression, dissociation, paranoia, OCD are also analyzed for a complete portrayal and understanding of Lovecraft’s anxiety disorders. This dissertation also approaches COVID-19 from a Lovecraftian perspective to discuss its psychological effects on the individuals, and finally examines the possibility to address the author’s narratives from a posthumanist perspective. Therefore, this dissertation adopts an interdisciplinary approach and uses various theories, ideas, and philosophies such as existentialism, phenomenology, schizoanalysis, as well as critical medical humanities, narrative medicine and posthumanism to accurately analyze Lovecraft’s writings. In doing so, it aims to investigate the role of narrative in representing and depicting mental illness. 
 
 <figure>
   <img src="{{ site.baseurl }}/assets/img/TesisBukeSaglam.jpg"
@@ -55,6 +54,17 @@ investigate the role of narrative in representing and depicting mental illness.
 
 ---
 
+**Malak Abdallah M.Y. Al-Shamayleh**: *Imágenes detrás de las imágenesuna imagología de la migración magrebí en los cines español y norteafricano* **2021**
+
+This doctoral thesis seeks to analyse the collective imagination and a whole repertoire of mutual mental images between the Maghreb and Spain. To this end, the figure of the Maghrebi immigrant in Spain has been chosen as representative of the greatest encounter between the two sides today. This study is based on imagological theory, which is mainly concerned with national and international stereotypes, referred to as ‘imagotypes’ by imagologists. It is also necessary to investigate the Orientalist perspective that Europe holds on the East. Likewise, this work seeks to understand the ‘particularity’ of the Spanish case through the analysis of a corpus composed of nineteen Spanish and North African film texts. 
+
+<figure>
+  <img src="{{ site.baseurl }}/assets/img/TesisBukeSaglam.jpg"
+       alt=""
+       style="width: 75%;">
+</figure>
+
+---
 <!--
 # Tutoring
 
