@@ -3,7 +3,7 @@
 # Literatura comparada e Humanidades públicas · Comparative Literature & Public Humanities @ USC
 
 
-Benvide á miña páxina persoal · Welcome to my personal webpage!
+Bem-vinde à minha página pessoal! · Welcome to my personal webpage!
 
 ## Sobre min · About Me
 
