@@ -13,7 +13,9 @@ permalink: /tutoring/
 </nav>
 
 ---
+# Supervisão · Supervision
 
+## Supervisão de teses de doutorado · Supervision of doctoral theses
 <!--
 # Tutoring
 
