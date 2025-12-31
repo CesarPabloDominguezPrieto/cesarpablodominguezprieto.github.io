@@ -24,7 +24,7 @@ This thesis studies the Spanish-language writing of authors of Chinese origin in
 <figure>
   <img src="{{ site.baseurl }}/assets/img/TesisWangChenchen.jpg"
        alt=""
-       style="width: 50%; max-width: 400px;">
+       style="width: 75%;">
 </figure>
 
 ---
