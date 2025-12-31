@@ -21,6 +21,8 @@ permalink: /tutoring/
 
 **Wang Chenchen**: *Diáspora china y escritores migrantes en Perú y España (1985-2023): una lectura desde la literatura mundial*
 
+This thesis studies the Spanish-language writing of authors of Chinese origin in Peru and Spain (1985-2023), focusing on the 1.5 generation and the second generation. It analyses how these diasporic works construct hybrid identities between Chinese, Peruvian and Spanish references. The corpus (Siu Kam Wen, Julia Wong Kcomt, Paloma Chen, and Susana Ye) is approached from a historical and comparative perspective. The texts question national narratives, denounce racism and patriarchy, and destabilise fixed notions of language and identity. The thesis vindicates Chinese diasporic literature as an autonomous field that enriches world literature and rethinks the canon.
+
 <!--
 # Tutoring
 
