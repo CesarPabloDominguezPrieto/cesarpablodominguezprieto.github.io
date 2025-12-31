@@ -32,3 +32,6 @@ King’s College London (2009-2010)
 
 * The Graduate Center of The City University of New York
 * Shanghai International Studies University
+* University of Wisconsin-Madison
+* Aarhus Universitet
+* Université de Bourgogne
