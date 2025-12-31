@@ -1,3 +1,9 @@
+---
+layout: default
+title: Teaching
+permalink: /teaching/
+---
+
 <nav>
   <a href="{{ site.baseurl }}/">Home</a> ·
   <a href="{{ site.baseurl }}/teaching/">Teaching</a> ·
@@ -6,6 +12,7 @@
   <a href="{{ site.baseurl }}/academic-background/">Education and Research Experience</a> ·
   <a href="{{ site.baseurl }}/contact/">Contact</a>
 </nav>
+---
 
 # Posições · Positions
 
