@@ -5,7 +5,7 @@
 
 Bem-vinde à minha página pessoal! · Welcome to my personal webpage!
 
-## Sobre min · About Me
+## Sobre min 
 
 Sou professor de literatura comparada na Universidade de Santiago de Compostela, onde coordeno o Mestrado em Estudos Literários e Culturais. Com mais de vinte anos de experiência docente e investigadora, o meu trabalho situa-se na intersecção entre a literatura comparada, a teoria literária, a tradução cultural e os estudos transatlânticos. Desenvolvi uma trajetória internacional consolidada no campo das humanidades comparadas e globais, com estadias de pesquisa e ensino em universidades da Europa, América e Ásia.
 
@@ -17,6 +17,7 @@ Minha atividade docente abrange disciplinas sobre teoria da literatura, literatu
 
 Entre os meus interesses atuais destacam-se a filologia mundial, a gerontologia literária aplicada, a poética da sustentabilidade e as formas emergentes de pensamento narrativo no século XXI. O meu trabalho combina uma abordagem multilingue e transcultural com uma vocação pública das humanidades, entendidas como espaço de mediação cultural, ética e política num mundo interdependente.
 
+## About Me
 
 I am a professor of comparative literature at the University of Santiago de Compostela, where I coordinate the Master's Degree in Literature and Culture Studies. With more than twenty years of teaching and research experience, my work lies at the intersection of comparative literature, literary theory, cultural translation, and transatlantic studies. I have developed a solid international career in the field of comparative and global humanities, with research and teaching stays at universities in Europe, America, and Asia.
 
