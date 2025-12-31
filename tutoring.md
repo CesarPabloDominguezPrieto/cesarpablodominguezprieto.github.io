@@ -23,7 +23,7 @@ permalink: /tutoring/
 This thesis studies the Spanish-language writing of authors of Chinese origin in Peru and Spain (1985-2023), focusing on the 1.5 generation and the second generation. It analyses how these diasporic works construct hybrid identities between Chinese, Peruvian and Spanish references. The corpus (Siu Kam Wen, Julia Wong Kcomt, Paloma Chen, and Susana Ye) is approached from a historical and comparative perspective. The texts question national narratives, denounce racism and patriarchy, and destabilise fixed notions of language and identity. The thesis vindicates Chinese diasporic literature as an autonomous field that enriches world literature and rethinks the canon. 
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/img/TesisNelsonWembe.jpg"
+  <img src="{{ site.baseurl }}/assets/img/TesisWangChenchen.jpg"
        alt=""
        style="width: 75%;">
 </figure>
@@ -35,7 +35,7 @@ This thesis studies the Spanish-language writing of authors of Chinese origin in
 This dissertation examines how the dynamics of Longing for the Other, Longing to Belong, Belonging and politics of Belonging shape the subjectivities of Black African diasporic individuals in Europe. Focusing on narratives written in French and Spanish, it analyses the ways in which first-generation migrants and their descendants negotiate identity, belonging, and displacement within intersecting cultural, political, and social contexts. The study proposes a conceptual bridge between “Black diaspora,” centred on race and transnational Blackness, and “African diaspora,” centred on connections to Africa as homeland. This framing allows for a re-theorisation of diasporic belonging in France and Spain, contexts where Black African voices remain underrepresented in scholarship. Through close readings of novels by Alain Mabanckou, Inongo-Vi-Makomè, Lucía Mbomio Asué Rubio, and Elisa Diallo, the thesis explores themes of racialisation, affect, generational differences, and the politics of belonging. Methodologically, the work combines literary analysis with insights from postcolonial studies, migration studies, and social theory, drawing on thinkers such as Paul Gilroy, Stuart Hall, Édouard Glissant, and Achille Mbembe. In doing so, it develops original concepts—including transclusive belonging, paraconsistent identity, and the Returnee Discourse—to account for the ambivalences of diasporic subjectivity. Ultimately, the dissertation demonstrates that Longing and Belonging, while often sources of tension, disillusionment, and contradiction, are also generative forces. They enable creativity, redefinition, and new forms of subjectivation, allowing diasporic individuals to construct inclusive identities that transcend fixed categories of nation, race, and culture. 
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/img/TesisWangChenchen.jpg"
+  <img src="{{ site.baseurl }}/assets/img/TesisNelsonWembe.jpg"
        alt=""
        style="width: 75%;">
 </figure>
