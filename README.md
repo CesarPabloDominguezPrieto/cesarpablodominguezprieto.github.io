@@ -1,7 +1,7 @@
 ---
 
 # Literatura comparada e Humanidades públicas · Comparative Literature & Public Humanities @ USC
-_Catedrático de Literatura comparada · Professor of Comparative Literature_
+
 
 Benvide á miña páxina persoal · Welcome to my personal webpage!
 
