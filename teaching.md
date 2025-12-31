@@ -26,3 +26,4 @@ Honorary Chair Professor – College of Literature and Journalism, Sichuan Unive
 
 Jean Monnet Chair ‘The Culture of European Integration‘– Universidade de Santiago de Compostela & European Commission (2012-2015)
 
+# Professor visitante · Visiting Professor
